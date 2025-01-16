@@ -1,18 +1,18 @@
 #include <string.h>
 
-char* longestCommonPrefix(char** strs, int strsSize)
+char *longestCommonPrefix(char **strs, int strsSize)
 {
-      char *prefix = strdup(strs[0]);
-      for (int i = 1; i <= strsSize - 1; i++)
-      {
-        int j = 0;
-        while (prefix[j] && strs[i][j] && prefix[j] == strs[i][j])
-            j++;
-        prefix[j] = '\0';
-        if (j == 0)
-            return (prefix);
-      }
-      return (prefix);
+	char *prefix = strdup(strs[0]);
+	for (int i = 1; i <= strsSize - 1; i++)
+	{
+		int j = 0;
+		while (prefix[j] && strs[i][j] && prefix[j] == strs[i][j])
+			j++;
+		prefix[j] = '\0';
+		if (j == 0)
+			return (prefix);
+	}
+	return (prefix);
 }
 
 #include <stdio.h>

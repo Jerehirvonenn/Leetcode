@@ -15,7 +15,7 @@ bool isValid(char *s)
 	if (size % 2 != 0)
 		return false;
 	char *stack = (char *)malloc(sizeof(char) * size);
-	int top = -1;
+	int	  top = -1;
 	for (int i = 0; i < size; i++)
 	{
 		if (s[i] == '(' || s[i] == '{' || s[i] == '[')

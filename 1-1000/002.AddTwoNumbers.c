@@ -3,7 +3,7 @@
 
 struct ListNode
 {
-	int val;
+	int				 val;
 	struct ListNode *next;
 };
 
@@ -17,7 +17,7 @@ struct ListNode *createNode(int value)
 
 struct ListNode *addTwoNumbers(struct ListNode *l1, struct ListNode *l2)
 {
-	struct ListNode dummy;
+	struct ListNode	 dummy;
 	struct ListNode *newNode = &dummy;
 
 	dummy.next = NULL;

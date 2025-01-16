@@ -3,13 +3,13 @@
 
 struct ListNode
 {
-	int val;
+	int				 val;
 	struct ListNode *next;
 };
 
 struct ListNode *mergeTwoLists(struct ListNode *list1, struct ListNode *list2)
 {
-	struct ListNode tmp;
+	struct ListNode	 tmp;
 	struct ListNode *tail = &tmp;
 
 	tmp.next = NULL;

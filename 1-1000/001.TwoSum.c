@@ -77,7 +77,7 @@ int *twoSum(int *nums, int numsSize, int target, int *returnSize)
 
 int main()
 {
-	int returnSize;
+	int	 returnSize;
 	int *result;
 
 	// Test case 1: Simple positive numbers

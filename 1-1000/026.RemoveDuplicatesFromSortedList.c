@@ -1,8 +1,9 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
-int	removeDuplicates(int* nums, int numsSize)
-{	int i = 0;
+int removeDuplicates(int *nums, int numsSize)
+{
+	int i = 0;
 
 	for (int j = 1; j < numsSize; j++)
 		if (nums[i] != nums[j])
@@ -10,17 +11,14 @@ int	removeDuplicates(int* nums, int numsSize)
 	return (i + 1);
 }
 
-int compare(const void* a, const void* b)
-{
-    return (*(int*)a - *(int*)b);
-}
+int compare(const void *a, const void *b) { return (*(int *)a - *(int *)b); }
 
-int	main(int ac, char **av)
+int main(int ac, char **av)
 {
 	if (ac < 2)
 		return (1);
 
-	int	array[ac - 1];
+	int array[ac - 1];
 	for (int i = 1; i < ac; i++)
 		array[i - 1] = atoi(av[i]);
 	qsort(array, ac - 1, sizeof(int), compare);
