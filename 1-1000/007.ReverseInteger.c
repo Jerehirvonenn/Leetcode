@@ -21,8 +21,11 @@ int reverse(int x)
 
 int main(int ac, char **av)
 {
-	if (ac < 2)
+	if (ac != 2)
+	{
+		printf("Usage: ./a.out <integer to flip>\n");
 		return 1;
+	}
 	int num = atoi(av[1]);
 	int result = reverse(num);
 	if (result || num == 0)
