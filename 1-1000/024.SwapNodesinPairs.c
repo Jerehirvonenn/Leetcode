@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 struct ListNode
 {
@@ -78,7 +77,6 @@ int main(int argc, char *argv[])
 	}
 
 	struct ListNode *head = buildLinkedListFromArgs(argc, argv);
-
 	printf("Original List: ");
 	printList(head);
 
