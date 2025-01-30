@@ -6,6 +6,8 @@ int *spiralOrder(int **matrix, int matrixSize, int *matrixColSize,
 {
 	int	 size = *matrixColSize * matrixSize;
 	int *array = malloc(sizeof(int) * size);
+	if (!array)
+		return NULL;
 	*returnSize = size;
 	int level = 0;
 	int i = 0;
@@ -41,8 +43,18 @@ int main(void)
 	int returnSize;
 
 	int **matrix = malloc(matrixSize * sizeof(int *));
+	if (!matrix)
+		return (1);
 	for (int i = 0; i < matrixSize; i++)
+	{
 		matrix[i] = malloc(matrixColSize * sizeof(int));
+		if (!matrix[i])
+		{
+			while (i)
+				free(matrix[i]);
+			return (1);
+		}
+	}
 
 	int counter = 1;
 	for (int i = 0; i < matrixSize; i++)
@@ -60,6 +72,8 @@ int main(void)
 	}
 
 	int *result = spiralOrder(matrix, matrixSize, &matrixColSize, &returnSize);
+	if (!result)
+		return (1);
 	printf("\nSpiral Order:\n");
 	for (int i = 0; i < returnSize; i++)
 		printf("%d ", result[i]);
