@@ -26,6 +26,8 @@ int main(int ac, char **av)
 	ac--;
 	av++;
 	int *array = malloc(sizeof(int) * ac);
+	if (!array)
+		return (1);
 	printf("Array:");
 	for (int i = 0; i < ac; i++)
 	{
