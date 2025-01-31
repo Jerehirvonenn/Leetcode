@@ -11,7 +11,7 @@ int sortIntervals(const void *a, const void *b)
 int **merge(int **intervals, int intervalsSize, int *intervalsColSize,
 			int *returnSize, int **returnColumnSizes)
 {
-	//silence flag for unused variable
+	// silence flag for unused variable
 	(void)intervalsColSize;
 	// sort intervals based in start number
 	qsort(intervals, intervalsSize, sizeof(int *), sortIntervals);
