@@ -2,28 +2,24 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void backtrack(int *nums, int numsSize, bool *used, int *current, int level,
-			   int **result, int *returnSize, int *returnColumnSizes)
+void backtrack(int *nums, int numsSize, bool *used, int *current, int level, int **result, int *returnSize, int *returnColumnSizes)
 {
-	// basecase
 	if (level == numsSize)
 	{
+		result[*returnSize] = malloc(sizeof(int) * numsSize);
 		for (int i = 0; i < numsSize; i++)
 			result[*returnSize][i] = current[i];
+		returnColumnSizes[*returnSize] = numsSize;
 		(*returnSize)++;
-		return;
+		return ;
 	}
-	// backtracking
 	for (int i = 0; i < numsSize; i++)
 	{
 		if (!used[i])
 		{
 			used[i] = true;
 			current[level] = nums[i];
-			// move to next level
-			backtrack(nums, numsSize, used, current, level + 1, result,
-					  returnSize, returnColumnSizes);
-			// revert pick and check next number
+			backtrack(nums, numsSize, used, current, level + 1, result, returnSize, returnColumnSizes);
 			used[i] = false;
 		}
 	}
@@ -31,28 +27,20 @@ void backtrack(int *nums, int numsSize, bool *used, int *current, int level,
 
 int **permute(int *nums, int numsSize, int *returnSize, int **returnColumnSizes)
 {
-	int maxPermutations = 1; // number of permutations is numsSize!
+	int	maxPermutations = 1;
 	for (int i = 2; i <= numsSize; i++)
-		maxPermutations = maxPermutations * i;
+		maxPermutations *= i;
 
-	// malloc for return and column sizes
-	int **result = malloc(sizeof(int *) * maxPermutations);
+	int	**result = malloc(sizeof(int*) * maxPermutations);
 	*returnColumnSizes = malloc(sizeof(int) * maxPermutations);
-	for (int i = 0; i < maxPermutations; i++)
-	{
-		(*returnColumnSizes)[i] = numsSize;
-		result[i] = malloc(sizeof(int) * numsSize);
-	}
-
-	bool used[numsSize];
-	int	 current[numsSize];
-	for (int i = 0; i < numsSize; i++) // init used array as false
-		used[i] = false;
+	int	*current = malloc(sizeof(int) * numsSize);
+	bool *used = calloc(numsSize, sizeof(bool));
 
 	*returnSize = 0;
-	backtrack(nums, numsSize, used, current, 0, result, returnSize,
-			  *returnColumnSizes);
+	backtrack(nums, numsSize, used, current, 0, result, returnSize, *returnColumnSizes);
 
+	free(used);
+	free(current);
 	return result;
 }
 
@@ -61,9 +49,9 @@ int main()
 	int	 nums[] = {1, 2, 3};
 	int	 returnSize;
 	int *returnColumnSizes;
+	int numsSize = sizeof(nums) / sizeof(int);
 
-	int **result = permute(nums, 3, &returnSize, &returnColumnSizes);
-
+	int **result = permute(nums, numsSize, &returnSize, &returnColumnSizes);
 	printf("Permutations:\n");
 	for (int i = 0; i < returnSize; i++)
 	{
