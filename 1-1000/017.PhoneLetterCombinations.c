@@ -25,7 +25,6 @@ void backtrack(char *digits, char **result, char *current, int level, int len,
 		(*size)++;
 		return;
 	}
-
 	// backtrack
 	int letters = (digits[level] == '7' || digits[level] == '9') ? 4 : 3;
 	for (int i = 0; i < letters; i++)
@@ -58,7 +57,6 @@ char **letterCombinations(char *digits, int *returnSize)
 	};
 
 	int combinations = get_combinations(digits);
-	printf("Combinations: %d\n", combinations);
 
 	char **result = malloc(sizeof(char *) * (combinations + 1));
 	result[combinations] = NULL;
@@ -86,6 +84,7 @@ bool check_string(char *s)
 
 int main(int ac, char **av)
 {
+	(void)ac;
 	if (!check_string(av[1]))
 	{
 		printf("Include numbers between 2-9\n");
