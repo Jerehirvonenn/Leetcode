@@ -26,8 +26,7 @@ struct ListNode *rotateRight(struct ListNode *head, int k)
 		return head;
 
 	tail->next = head;
-	int toMove = k % len;
-	toMove = len - toMove;
+	int toMove = len - (k % len);
 	while (toMove)
 	{
 		tail = head;
@@ -89,8 +88,8 @@ int main(int argc, char **argv)
 	}
 
 	// init list and size based on command line args
-	int k = atoi(argv[2]);
 	int listSize = atoi(argv[1]);
+	int rotates = atoi(argv[2]);
 
 	// Create and print the original list
 	struct ListNode *head = createList(listSize);
@@ -98,8 +97,8 @@ int main(int argc, char **argv)
 	printList(head);
 
 	// Rotate the list and print the result
-	head = rotateRight(head, k);
-	printf("Rotated list by %d steps:\n", k);
+	head = rotateRight(head, rotates);
+	printf("Rotated list by %d steps:\n", rotates);
 	printList(head);
 
 	// free memory
