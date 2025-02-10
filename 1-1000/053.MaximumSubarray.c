@@ -36,5 +36,5 @@ int main(int ac, char **av)
 	printf("\n");
 	int numsSize = ac;
 	int result = maxSubArray(array, numsSize);
-	printf("max subarray sum is %d", result);
+	printf("max subarray sum is %d\n", result);
 }
