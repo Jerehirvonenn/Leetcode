@@ -10,7 +10,8 @@ bool searchMatrix(int **matrix, int matrixSize, int *matrixColSize, int target)
 	while (top <= bottom)
 	{
 		int middle = (top + bottom) / 2;
-		if (matrix[middle][0] <= target && target <= matrix[middle][*matrixColSize - 1])
+		if (matrix[middle][0] <= target &&
+			target <= matrix[middle][*matrixColSize - 1])
 		{
 			row = middle;
 			break;
@@ -68,11 +69,11 @@ int main(void)
 	for (int i = 0; i < MaxRow; i++)
 		matrix[i] = (int *)malloc(MaxCol * sizeof(int));
 
-	//matric size is always set to 10x10
-	//change row/col and numbers inside those values to dif test cases
+	// matric size is always set to 10x10
+	// change row/col and numbers inside those values to dif test cases
 	int rows = 3;
 	int cols = 4;
-	int	target = 34;
+	int target = 34;
 	int matrixData[10][10] = {{1, 2, 5, 7, 5},
 							  {10, 11, 16, 20, 5},
 							  {23, 30, 34, 60, 0},
@@ -86,7 +87,6 @@ int main(void)
 	bool result = searchMatrix(matrix, rows, &cols, target);
 	if (!result)
 		printf("Not found :(\n");
-
 
 	for (int i = 0; i < MaxRow; i++)
 		free(matrix[i]);
