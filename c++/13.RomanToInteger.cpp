@@ -1,8 +1,8 @@
 #include <iostream>
 
-int	checkValue(std::string s, int i)
+int	checkValue(char a)
 {
-	switch(s[i]) {
+	switch(a) {
 		case 'I': return 1;
 		case 'V': return 5;
         case 'X': return 10;
@@ -10,7 +10,7 @@ int	checkValue(std::string s, int i)
         case 'C': return 100;
         case 'D': return 500;
         case 'M': return 1000;
-        default: return 0;
+        default: throw std::runtime_error("Error: Invalid character");
 	}
 }
 
@@ -19,16 +19,27 @@ class Solution
 	public:
 		int romanToInt(std::string s)
 		{
-			int	result = 0;
-			for (int i = 0; s[i]; i++) {
-				int value = checkValue(s, i);
-				int next = checkValue(s, i + 1);
-				if (next > value) {
-					result += next - value;
-					i++;
+			int		result = 0;
+			int		prev = 0;
+			int		adding = 1;
+			for (int i = s.size() - 1; i >= 0; i--) {
+				int current = checkValue(s[i]);
+				if (current == prev && !adding) {
+					result -= current;
+					adding--;
 				}
-				else
-					result += value;
+				else if (prev > current) {
+					result -= current;
+					adding--;
+				}
+				else {
+					result += current;
+					adding = 1;
+				}
+				if (adding < 0) {
+					throw std::runtime_error("Error: Max 1 reducing number in row");
+				}
+				prev = current;
 			}
 			return result;
 		}
@@ -38,8 +49,15 @@ int main(int ac, char **av)
 {
 	if (ac < 2)
 		return 1;
-	Solution solve;
-	std::string input = av[1];
-	int result = solve.romanToInt(input);
-	std::cout << input << " value is " << result << std::endl;
+	try
+	{
+		Solution solve;
+		std::string input = av[1];
+		int result = solve.romanToInt(input);
+		std::cout << input << " value is " << result << std::endl;
+	}
+	catch (std::exception &e)
+	{
+		std::cout << e.what() << std::endl;
+	}
 }
