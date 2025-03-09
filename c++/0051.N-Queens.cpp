@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <bitset>
 
 using namespace std;
 
@@ -7,7 +8,7 @@ class Solution
 {
 private:
 	static void	findBoards(int n, int col, vector<vector<string>> &result, vector<string> &board,
-			vector<bool> &rowCheck, vector<bool> &upCheck, vector<bool> &downCheck)
+			bitset<50>  &rowCheck, bitset<100> &upCheck, bitset<100> &downCheck)
 	{
 		if (col >= n) {
 			result.push_back(board);
@@ -17,17 +18,18 @@ private:
 		for (int i = 0; i < n; i++) {
 			if (!rowCheck[i] && !upCheck[n - i + col - 1]
 					&& !downCheck[i + col]) {
+				auto &cell = board[i][col];
 				rowCheck[i] = true;
 				upCheck[n - i + col - 1] = true;
 				downCheck[i + col] = true;
-				board[i][col] = 'Q';
-				
+				cell = 'Q';
+
 				findBoards(n, col + 1, result, board, rowCheck, upCheck, downCheck);
 
 				rowCheck[i] = false;
 				upCheck[n - i + col - 1] = false;
 				downCheck[i + col] = false;
-				board[i][col] = '.';
+				cell = '.';
 			}
 		}
 	}
@@ -36,9 +38,9 @@ public:
 	{
 		vector<vector<string>>	result;
 		vector<string>			board(n);
-		vector<bool>			rowCheck(n, false);
-		vector<bool>			upCheck(n * 2 - 1, false);
-		vector<bool>			downCheck(n * 2 - 1, false);
+		bitset<50>				rowCheck;
+		bitset<100>				upCheck;
+		bitset<100>				downCheck;
 
 		for (int i = 0; i < n; i++) {
 			string row(n, '.');
@@ -60,6 +62,7 @@ int main(int ac, char **av)
 
 	vector<vector<string>> result = Solution::solveNQueens(N);
 
+	/*
 	for (const auto &board : result)
 	{
 		for (const auto &row : board)
@@ -67,6 +70,6 @@ int main(int ac, char **av)
 			cout << row << endl;
 		}
 		cout << endl;
-	}
+	}*/
 	cout << "Total solutions: " << result.size() << endl;
 }
