@@ -1,5 +1,11 @@
 #include <iostream>
 
+/* Function to calculate num of substring that contain atleast 1 of each a, b and c
+ * numLetter to keep track of each and if all of them are 1 >=
+ * 		we trigger allIncluded for fast lookup
+ * since we looking for atleast 1, num of substring is current + each char not used yet
+ * 		example:  a b c c c substrs : abc, abcc, abccc
+ */
 class Solution
 {
 public:
