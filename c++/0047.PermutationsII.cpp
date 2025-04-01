@@ -4,7 +4,8 @@
 
 using namespace std;
 
-class Solution {
+class Solution
+{
 private:
 	static void	createPerm(int level, vector<bool> &used, vector<vector<int>> &result,
 			vector<int> &current, int &len, vector<int> &nums)
@@ -14,7 +15,8 @@ private:
 			return ;
 		}
 
-		for (int i = 0; i < len; i++) {
+		for (int i = 0; i < len; i++)
+		{
 			if (i != 0 && nums[i] == nums[i - 1] && used[i - 1])
 				continue ;
 			if (!used[i]) {
@@ -59,7 +61,8 @@ int main(int ac, char **av)
 	}
 
 	auto result = Solution::permute(input);
-	for (const auto& row : result) {
+	for (const auto& row : result)
+	{
         for (int num : row) {
             std::cout << num << " ";
         }
