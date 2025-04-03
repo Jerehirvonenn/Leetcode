@@ -17,7 +17,8 @@ class Solution
         int col = 0;
         int current = 0;
         int level = 0;
-        while (current < size) {
+        while (current < size)
+		{
             while (current < size && col < colLen - level) {
                 result[current++] = matrix[row][col++];
             }
