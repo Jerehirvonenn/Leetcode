@@ -6,8 +6,9 @@ using namespace std;
 class Solution
 {
 	public:
-    bool canJump(vector<int>& nums) {
-        int maximum = nums[0];
+    static bool canJump(vector<int>& nums)
+	{
+        int	maximum = nums[0];
         for (int i = 1; i < nums.size(); i++) {
             if (i > maximum) {
                 return false;
@@ -18,19 +19,19 @@ class Solution
     }
 };
 
-int main(int argc, char* argv[]) {
-    if (argc < 2) {
-        cerr << "Usage: " << argv[0] << " <space-separated list of numbers>" << endl;
+int main(int ac, char **av)
+{
+    if (ac < 2) {
+        cerr << "Usage: " << av[0] << " <num1> <num2> <num3>..." << endl;
         return 1;
     }
 
     vector<int> nums;
-    for (int i = 1; i < argc; i++) {
-        nums.push_back(atoi(argv[i]));
+    for (int i = 1; i < ac; i++) {
+        nums.push_back(atoi(av[i]));
     }
 
-    Solution solution;
-    bool result = solution.canJump(nums);
+    bool result = Solution::canJump(nums);
     cout << (result ? "Can reach the last index" : "Cannot reach the last index") << endl;
 }
 
