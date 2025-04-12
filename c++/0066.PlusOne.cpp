@@ -8,7 +8,8 @@ public:
     static vector<int> plusOne(vector<int>& digits)
     {
         int carry = 1;
-        for (auto it = digits.rbegin(); it != digits.rend(); it++) {
+        for (auto it = digits.rbegin(); it != digits.rend(); it++)
+		{
             if (*it + carry > 9) {
                 *it = 0;
                 carry = 1;
@@ -19,9 +20,8 @@ public:
 				break;
             }
         }
-        if (carry) {
+        if (carry)
             digits.insert(digits.begin(), carry);
-        }
         return digits;
     }
 };
