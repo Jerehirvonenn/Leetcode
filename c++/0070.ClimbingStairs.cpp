@@ -3,7 +3,7 @@
 class Solution
 {
 	public:
-    int climbStairs(int n)
+    static int climbStairs(int n)
 	{
 		if (n == 1 || n == 2 || n == 3) {
 			return n;
@@ -25,9 +25,7 @@ int main(int ac, char **av)
 {
 	if (ac < 2)
 		return 1;
-
 	int stairs = atoi(av[1]);
-	Solution solve;
-	int result = solve.climbStairs(stairs);
+	int result = Solution::climbStairs(stairs);
 	std::cout << result << std::endl;
 }
