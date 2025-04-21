@@ -3,7 +3,8 @@
 
 using namespace std;
 
-class Solution {
+class Solution
+{
 private:
 	static void	createPerm(int level, vector<int> &current, vector<vector<int>> &result, 
 			const int &n, const int &k, int start)
@@ -12,7 +13,6 @@ private:
 			result.push_back(current);
 			return ;
 		}
-
 		for (int i = start; i <= n; i++) {
 			current[level] = i;
 			createPerm(level + 1, current, result, n, k, i + 1);
@@ -25,7 +25,6 @@ public:
 		vector<int>			current(k);
 
 		createPerm(0, current, result, n, k, 1);
-
 		return result;
     }
 };
@@ -42,9 +41,7 @@ int main(int ac, char **av)
 	for (const auto& row : result)
 	{
 		for (int num : row)
-		{
             std::cout << num << " ";
-        }
 		std::cout << std::endl;
 	}
 }
