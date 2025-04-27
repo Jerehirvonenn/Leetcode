@@ -14,9 +14,8 @@ class Solution
 public:
     static ListNode* deleteDuplicates(ListNode* head)
 	{
-		if (!head || !head->next) {
+		if (!head || !head->next)
 			return head;
-		}
 		ListNode *dummy = new ListNode(101);
 		ListNode *real = dummy;
 
