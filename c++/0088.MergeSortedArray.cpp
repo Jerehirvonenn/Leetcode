@@ -5,11 +5,11 @@ using namespace std;
 
 class Solution {
 public:
-    static void merge(vector<int>& nums1, int m, vector<int>& nums2, int n)
+    static void	merge(vector<int>& nums1, int m, vector<int>& nums2, int n)
 	{
-		int i = m - 1;
-		int j = n - 1;
-		int k = nums1.size() - 1;
+		int	i = m - 1;
+		int	j = n - 1;
+		int	k = nums1.size() - 1;
 
 		while (i >= 0 || j >= 0)
 		{
@@ -47,9 +47,8 @@ void	captureData(char *str, vector<int> &nums1, vector<int> &nums2)
 void	printVector(vector<int> &nums, string msg)
 {
 	cout << msg;
-	for (const int &num : nums) {
+	for (const int &num : nums)
 		cout << num << " -> ";
-	}
 	cout << "NULL" << endl;
 }
 
@@ -69,7 +68,6 @@ int main(int ac, char **av)
 		printVector(nums2, "Vector 2: ");
 
 		Solution::merge(nums1, nums1Size, nums2, nums2Size);
-
 		printVector(nums1, "Vector 1: ");
 	}
 	catch (exception &e)
