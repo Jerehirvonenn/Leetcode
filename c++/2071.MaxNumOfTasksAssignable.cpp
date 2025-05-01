@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <deque>
 #include <chrono>
 #include <random>
 #include <algorithm>
@@ -12,7 +13,7 @@ private:
 	bool canSolveNTasks(const vector<int>& tasks, const vector<int>& workers,
 			int pills, const int strength, const int n)
 	{
-        vector<int> available(workers.end() - n, workers.end());
+        deque<int> available(workers.end() - n, workers.end());
 
         for (int i = n - 1; i >= 0; --i)
 		{
