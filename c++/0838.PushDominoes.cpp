@@ -5,7 +5,7 @@ using namespace std;
 
 class Solution {
 public:
-    string pushDominoes(string dominoes)
+    static string pushDominoes(string dominoes)
 	{
         char prev = '.';
         int streak = 0;
@@ -59,7 +59,6 @@ int main(int ac, char **av)
 			return 42;
 		}
 	}
-    Solution sol;
-    string result = sol.pushDominoes(input);
+    string result = Solution::pushDominoes(input);
     cout << result << "\n";
 }
