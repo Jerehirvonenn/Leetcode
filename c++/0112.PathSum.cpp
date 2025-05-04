@@ -22,17 +22,13 @@ public:
 		{
 			auto [node, target] = stack.top();
 			stack.pop();
-
 			int sum = target - node->val;
-			if (!sum && !node->left && !node->right) {
+			if (!sum && !node->left && !node->right)
 				return true;
-			}
-			if (node->left) {
+			if (node->left)
 				stack.push({node->left, sum});
-			}
-			if (node->right) {
+			if (node->right)
 				stack.push({node->right, sum});
-			}
 		}
 		return false;
     }
