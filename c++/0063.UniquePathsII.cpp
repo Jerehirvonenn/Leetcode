@@ -5,7 +5,11 @@
  * exist from the top-left to the bottom-right corner. The robot can only move
  * down or right at each step
  *
- * Approach:
+ * Approach 1:
+ *   - Dynamic Programming with grid[0].size extra space
+ *   - update cell to 0 if its a rock otherwise keep incresing 
+ *     dp[j] from whats left of it
+ * Approach 2:
  * - Dynamic Programming (in-place)
  *   - If a cell has an obstacle, set paths to 0
  *   - For all other cells, paths = paths from left + paths from above
@@ -22,7 +26,27 @@ using namespace std;
 
 class Solution {
 public:
-    int uniquePathsWithObstacles(vector<vector<int>>& grid)
+	int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid)
+    {
+        int row = obstacleGrid.size();
+        int col = obstacleGrid[0].size();
+        vector<int> dp(col, 0);
+
+        dp[0] = (obstacleGrid[0][0] == 0) ? 1 : 0;
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
+                if (obstacleGrid[i][j] == 1) {
+                    dp[j] = 0;
+                }
+                else if (j > 0) {
+                    dp[j] += dp[j - 1];
+                }
+            }
+        }
+        return dp[col - 1];
+    }
+	//inplace
+    int uniquePathsWithObstacles2(vector<vector<int>>& grid)
     {
         int row = grid.size();
         int col = grid[0].size();
