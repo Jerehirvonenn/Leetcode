@@ -1,3 +1,23 @@
+/*
+ * Leetcode 1920 - Build Array from Permutation
+ * 
+ * Problem:
+ * Given a zero-based permutation array 'nums', construct a new array 'ans' such that:
+ *     ans[i] = nums[nums[i]]
+ * 
+ * Constraints:
+ *  'nums' is a permutation of integers from 0 to nums.length - 1
+ *   All values are unique
+ * 
+ * Optimized Solution:
+ *   encoding both old and new values into nums[i] using:
+ *     nums[i] = nums[i] + (nums[nums[i]] % n) * n
+ *   Then retrieve final values with:
+ *     nums[i] /= n
+ * - Time Complexity: O(n)
+ * - Space Complexity: O(1) (modifying input in-place)
+ */
+
 #include <iostream>
 #include <vector>
 
