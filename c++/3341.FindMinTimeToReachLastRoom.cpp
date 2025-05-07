@@ -1,3 +1,24 @@
+/*
+ * Leetcode 3341 - Find Minimum Time to Reach Last Room I (Medium)
+ *
+ * You are given an n x m grid (dungeon) where each cell moveTime[i][j] represents
+ * the earliest time you are allowed to start moving *toward* that room. You start 
+ * at cell (0, 0) at time 0, and moving to any adjacent room (up/down/left/right) 
+ * takes exactly 1 second.
+ *
+ * The goal is to return the minimum time required to reach the bottom-right cell
+ * (n-1, m-1) from the top-left cell (0, 0), while respecting the time constraints
+ * on movement.
+ *
+ * Approach:
+ * - Dijkstra's algorithm
+ *   - Use a priority queue to always expand the room reachable in the least time
+ *   - Track the minimum known time to reach each cell in a 2D visited array
+ * Improvment ideas
+ *   - instead of just picking room with least time,
+ *     also account how far from finish we are (potential time)
+ */
+
 #include <iostream>
 #include <vector>
 #include <queue>
