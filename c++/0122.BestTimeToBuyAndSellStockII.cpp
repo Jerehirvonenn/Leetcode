@@ -16,33 +16,36 @@
 #include <vector>
 #include <sstream>
 #include <limits.h>
+
 using namespace std;
 
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
+    int maxProfit(vector<int>& prices)
+	{
         int profit = 0;
         int bought = INT_MAX;
 
-        for (int i = 0; i < prices.size() - 1; i++) {
+        for (int i = 0; i < prices.size() - 1; i++)
+		{
             int result = prices[i + 1] - prices[i];
-            if (result > 0) {
+            if (result > 0)
                 profit += result;
-            }
         }
         return profit;
     }
 };
 
-int main(int argc, char* argv[]) {
-    if (argc < 2) {
-        cerr << "Usage: " << argv[0] << " <num1> <nums2 ..." << endl;
+int main(int ac, char **av)
+{
+    if (ac < 2) {
+        cerr << "Usage: " << av[0] << " <num1> <nums2 ..." << endl;
         return 1;
     }
 
     vector<int> prices;
-    for (int i = 1; i < argc; i++) {
-        prices.push_back(atoi(argv[i]));
+    for (int i = 1; i < ac; i++) {
+        prices.push_back(atoi(av[i]));
     }
 
     Solution solution;
