@@ -1,5 +1,4 @@
-/*
- * Leetcode 64 - Minimum Path Sum (Medium)
+/* Leetcode 64 - Minimum Path Sum (Medium)
  *
  * Problem:
  * Given an m x n grid filled with non-negative numbers, find a path from top left to bottom right,
