@@ -3,8 +3,7 @@
 
 using namespace std;
 
-class Solution
-{
+class Solution {
 	private:
 	int calculateHappy(int n)
 	{
@@ -25,9 +24,8 @@ class Solution
 
         while (n != 1) {
             n = calculateHappy(n);
-            if (visited[n]) {
+            if (visited[n])
                 return false;
-            }
             visited[n] = true;
         }
         return true;
