@@ -65,7 +65,6 @@ int main(void)
 
     Solution sol;
     sol.sortColors(nums);
-
     cout << "Sorted array: ";
     for (int x : nums) {
         cout << x << " ";
