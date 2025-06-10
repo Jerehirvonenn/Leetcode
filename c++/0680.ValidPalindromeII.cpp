@@ -9,8 +9,7 @@
  * - While characters match, continue inward.
  * - On first mismatch, try skipping either the left or the right character.
  *   Check both resulting substrings for palindrome validity.
- * - If either is a palindrome, return true.
- * - Otherwise, return false.
+ * - If either is a palindrome, return true. Otherwise, return false.
  *
  * Time Complexity: O(n)
  * Space Complexity: O(1)
@@ -24,8 +23,7 @@ using namespace std;
 class Solution {
 private:
     bool isPalindrome(const string &s, int left, int right) {
-        while (left < right)
-		{
+        while (left < right) {
             if (s[left++] != s[right--]) {
                 return false;
             }
