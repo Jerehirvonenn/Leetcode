@@ -10,8 +10,6 @@
  * - Use a sliding window of size k
  * - Start by computing the sum of the first k elements
  * - Slide the window through the array:
- *     - Subtract the element leaving the window
- *     - Add the new element entering the window
  *     - Track the maximum sum seen
  * - Return the max sum divided by k as the average
  *
