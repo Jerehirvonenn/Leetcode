@@ -20,6 +20,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 class Solution {
@@ -48,12 +49,12 @@ int main(void)
 
     vector<int> nums(n);
     cout << "Enter " << n << " elements:\n";
-    for (int i = 0; i < n; ++i) {
+    for (int i = 0; i < n; i++) {
         cin >> nums[i];
     }
 
     Solution sol;
     double result = sol.findMaxAverage(nums, k);
-    cout.precision(10);  // For better precision
+    cout.precision(10);
     cout << "Maximum average subarray of length " << k << " is: " << result << endl;
 }
