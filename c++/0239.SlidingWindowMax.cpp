@@ -37,6 +37,7 @@ public:
             while (!dq.empty() && dq.front() <= i - k) {
                 dq.pop_front();
             }
+
             // Remove indices with smaller values
             while (!dq.empty() && nums[dq.back()] < nums[i]) {
                 dq.pop_back();
