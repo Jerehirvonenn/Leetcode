@@ -3,7 +3,6 @@
  *
  * Problem:
  * Given an integer rowIndex, return the rowIndex-th (0-indexed) row of Pascal's Triangle.
- *
  * In Pascal's Triangle, each number is the sum of the two numbers directly above it.
  * 
  *     0th row:        1
@@ -30,10 +29,8 @@ using namespace std;
 
 class Solution {
 public:
-    vector<int> getRow(int rowIndex)
-    {
+    vector<int> getRow(int rowIndex) {
         vector<int> dp(rowIndex + 1, 1);
-        
         for (int i = 2; i <= rowIndex; i++) {
             for (int j = i - 1; j > 0; j--) {
                 dp[j] = dp[j] + dp[j - 1];
@@ -53,8 +50,7 @@ int main(void)
 
     vector<int> row = solution.getRow(rowIndex);
     cout << "Pascal's Triangle row " << rowIndex << ":" << endl;
-    for (int num : row) {
+    for (int num : row)
         cout << num << " ";
-    }
     cout << endl;
 }
