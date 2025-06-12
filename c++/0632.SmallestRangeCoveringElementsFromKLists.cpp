@@ -59,8 +59,7 @@ public:
                (rangeSize == bestSize && val < rangeStart)) {
                 rangeStart = val;
                 rangeEnd = maxVal;
-            }
-            
+            } 
             if (index + 1 >= sizes[listIndex]) {
                 break;
             }
@@ -79,15 +78,15 @@ int main(void)
     cin >> k;
     vector<vector<int>> nums(k);
 
-    for (int i = 0; i < k; i++) {
+    for (int i = 0; i < k; i++)
+	{
         int size;
         cout << "Enter size of list " << i+1 << ": ";
         cin >> size;
         nums[i].resize(size);
         cout << "Enter elements of list " << i+1 << " in sorted order: ";
-        for (int j = 0; j < size; j++) {
+        for (int j = 0; j < size; j++)
             cin >> nums[i][j];
-        }
     }
 
     Solution sol;
