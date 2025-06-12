@@ -40,19 +40,20 @@ public:
         }
 
         int longest = 0;
-        for (int i = 0; i < 26; ++i) {
+        for (int i = 0; i < 26; ++i)
+		{
             char c = 'A' + i;
             if (k + freq[c] <= longest)
 				continue;
             int left = 0;
 			int swap = 0;
-            for (int right = 0; right < n; right++) {
+            for (int right = 0; right < n; right++)
+			{
                 if (s[right] != c)
 					swap++;
-                while (swap > k) {
+                while (swap > k)
                     if (s[left++] != c)
 						swap--;
-				}
                 longest = max(longest, right - left + 1);
             }
         }
@@ -73,6 +74,5 @@ int main(void)
 
     Solution sol;
     int result = sol.characterReplacement(s, k);
-
     cout << "Longest substring after replacements: " << result << endl;
 }
