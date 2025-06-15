@@ -17,7 +17,6 @@
  *     Replace the first digit ≥ '2' with:
  *         '1' if it's the leading digit (to avoid leading zero),
  *         otherwise '0'.
- *     This ensures the minimum number has no leading zeros.
  */
 
 #include <iostream>
@@ -49,12 +48,10 @@ public:
         
         looking = 0;
         for (int i = 0; i < max.size(); i++) {
-            if (looking == 0 && max[i] != '9') {
+            if (looking == 0 && max[i] != '9')
                 looking = max[i];
-            }
-            if (max[i] == looking) {
+            if (max[i] == looking)
                 max[i] = '9';
-            }
         }
         return stoi(max) - stoi(min);
     }
