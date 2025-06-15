@@ -20,9 +20,6 @@
  * - For min:
  *     - Replace all occurrences of the first digit with '0'.
  * - Convert both back to int and return the difference.
- *
- * Time Complexity: O(n) where n is the number of digits in num
- * Space Complexity: O(n) for the string copies
  */
 
 #include <iostream>
@@ -55,11 +52,13 @@ public:
     }
 };
 
-int main(void) {
+int main(void)
+{
     Solution sol;
     int num;
 	cout << "Provide integer: ";
 	cin >> num;
+
     int result = sol.minMaxDifference(num);
     cout << "Max difference after remapping digits of " << num << " is: " << result << endl;
 }
