@@ -63,7 +63,6 @@ int main(void)
 
     cout << "Enter the value of k: ";
     cin >> k;
-
     int result = sol.numberOfSubarrays(nums, k);
     cout << "Number of nice subarrays: " << result << endl;
 }
