@@ -4,10 +4,8 @@ using namespace std;
 
 class Solution {
 	private:
-	static void	checkPalindrome(int left, int right, string &s, int &maxLen, int &start)
-	{
-		while (left >= 0 && right < s.size() && s[left] == s[right])
-		{
+	static void	checkPalindrome(int left, int right, string &s, int &maxLen, int &start) {
+		while (left >= 0 && right < s.size() && s[left] == s[right]) {
 			if (right - left + 1 > maxLen) {
 				start = left;
 				maxLen = right - left + 1;
@@ -18,8 +16,7 @@ class Solution {
 	}
 
 	public:
-    static string longestPalindrome(string s)
-	{
+    static string longestPalindrome(string s) {
 		int size = s.size();
 		int	maxLen = 0;
 		int start = 0;
