@@ -22,7 +22,8 @@ using namespace std;
 
 class Solution {
 public:
-    int maximumDifference(vector<int>& nums) {
+    int maximumDifference(vector<int>& nums)
+	{
         int smallest = INT_MAX;
         int result = 0;
         for (const int num : nums) {
