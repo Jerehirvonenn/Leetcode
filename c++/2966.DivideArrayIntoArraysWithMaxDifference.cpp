@@ -7,7 +7,7 @@
  * If such a division is possible, return any valid grouping. Otherwise, return an empty array.
  *
  * Example:
- * Input: nums = [1,3,4,8,7,9], k = 2
+ * Input: nums = [1,3,4,8,7,9], k = 3
  * Output: [[1,3,4],[7,8,9]]
  *
  * Approach:
@@ -17,8 +17,8 @@
  * - If any group fails the condition, return an empty array
  * - Else, return the list of valid triplets
  *
- * Time Complexity: O(n log n) — sorting the array
- * Space Complexity: O(n) — storing the resulting groups
+ * Time Complexity: O(n log n) — sorting
+ * Space Complexity: O(1) only return value
  */
 
 #include <iostream>
@@ -42,13 +42,13 @@ public:
     }
 };
 
-int main(void) {
+int main(void)
+{
     Solution sol;
     vector<int> nums = {1,3,4,8,7,9,3,5,1};
     int k = 2;
 
     vector<vector<int>> result = sol.divideArray(nums, k);
-
     if (result.empty()) {
         cout << "[]\n";
     }
