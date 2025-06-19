@@ -16,13 +16,14 @@
  * - Iterate through elements and track the start of the current group (smallest).
  * - When the difference between current number and the start exceeds k, start a new group.
  *
- * Time Complexity: O(n log n)  (due to sorting)
- * Space Complexity: O(1)       (ignoring sorting space)
+ * Time Complexity: O(n log n) sorting
+ * Space Complexity: O(1)
  */
 
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 class Solution {
