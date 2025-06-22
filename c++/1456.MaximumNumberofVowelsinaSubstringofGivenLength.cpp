@@ -18,28 +18,23 @@ using namespace std;
 
 class Solution {
 private:
-    bool isVowel(char c) {
-        return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
-    }
+    bool isVowel(char c) {return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');}
 public:
     int maxVowels(string s, int k) {
         int n = s.size();
         int right = 0;
         int vowels = 0;
         while (right < n && right < k) {
-            if (isVowel(s[right++])) {
+            if (isVowel(s[right++]))
                 vowels++;
-            }
         }
         int longest = vowels;
 
         while (right < n) {
-            if (isVowel(s[right])) {
+            if (isVowel(s[right]))
                 vowels++;
-            }
-            if (isVowel(s[right - k])) {
+            if (isVowel(s[right - k]))
                 vowels--;
-            }
             right++;
             longest = max(longest, vowels);
         }
