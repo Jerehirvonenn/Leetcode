@@ -18,6 +18,7 @@
 
 #include <iostream>
 #include <vector>
+
 using namespace std;
 
 class Solution {
@@ -27,16 +28,14 @@ public:
         int result = 0;
         for (const int num : nums) {
             pos += num;
-            if (pos == 0) {
+            if (pos == 0)
                 result++;
-            }
         }
         return result;
     }
 };
 
-int main(void)
-{
+int main(void) {
     int n;
     cout << "Enter number of moves: ";
     cin >> n;
