@@ -20,6 +20,7 @@
 #include <iostream>
 #include <vector>
 #include <unordered_map>
+
 using namespace std;
 
 pair<int, int> indx = {- 1,-1};
@@ -41,9 +42,8 @@ public:
                     return true;
 				}
             }
-			else {
+			else
                 seen[modulo] = i;
-            }
         }
         return false;
     }
