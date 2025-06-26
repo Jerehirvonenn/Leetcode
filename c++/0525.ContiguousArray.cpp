@@ -18,25 +18,23 @@
 #include <iostream>
 #include <vector>
 #include <unordered_map>
+
 using namespace std;
 
 class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
         int n = nums.size();
-
         int biggest = 0;
         int sum = 0;
         unordered_map<int, int> seen;
         seen[0] = -1;
         for (int i = 0; i < n; i++) {
             nums[i] == 1 ? sum += 1 : sum -= 1;
-            if (seen.count(sum)) {
+            if (seen.count(sum))
                 biggest = max(biggest, i - seen[sum]);
-            }
-            else {
+            else
                 seen[sum] = i;
-            }
         }
         return biggest;
     }
