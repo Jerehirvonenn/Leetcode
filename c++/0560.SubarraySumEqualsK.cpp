@@ -44,7 +44,8 @@ public:
 };
 
 int main() {
-    int n, k;
+    int n;
+	int k;
 	cout << "Provide size of array: ";
     cin >> n;
 
