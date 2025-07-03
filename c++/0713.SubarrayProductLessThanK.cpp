@@ -14,7 +14,6 @@
 
 #include <iostream>
 #include <vector>
-
 using namespace std;
 
 class Solution {
@@ -39,7 +38,8 @@ public:
 
 int main(void)
 {
-    int n, k;
+    int n;
+	int k;
     cout << "Enter the number of elements in the array: ";
     cin >> n;
     cout << "Enter the integer k: ";
