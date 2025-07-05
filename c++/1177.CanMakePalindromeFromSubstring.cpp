@@ -80,7 +80,6 @@ int main() {
     Solution sol;
     vector<bool> result = sol.canMakePaliQueries(s, queries);
 
-    for (bool res : result) {
+    for (bool res : result)
         cout << (res ? "true" : "false") << endl;
-    }
 }
