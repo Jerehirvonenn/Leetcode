@@ -9,7 +9,6 @@
  * - Use the fast and slow pointer technique:
  *   - Move 'slow' by one step and 'fast' by two steps in each iteration.
  *   - When 'fast' reaches the end of the list, 'slow' will be at the middle node.
- * - This approach ensures O(n) time complexity with O(1) space.
  *
  * Time Complexity: O(n)
  * Space Complexity: O(1)
