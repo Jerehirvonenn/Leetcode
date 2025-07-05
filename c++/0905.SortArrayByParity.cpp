@@ -19,6 +19,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 class Solution {
@@ -28,9 +29,8 @@ public:
         int even = 0;
         int odd = n - 1;
         for (int i = 0; i <= odd; i++) {
-            if (nums[i] % 2 == 0) {
+            if (nums[i] % 2 == 0)
                 swap(nums[i], nums[even++]);
-            }
             else {
                 swap(nums[i], nums[odd--]);
                 i--;
