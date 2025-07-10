@@ -20,6 +20,7 @@
 
 #include <iostream>
 #include <vector>
+
 using namespace std;
 
 class Solution {
@@ -50,7 +51,6 @@ int main(void)
 
     Solution sol;
     vector<int> result = sol.runningSum(nums);
-
     cout << "Running sum: ";
     for (int val : result) {
         cout << val << " ";
