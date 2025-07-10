@@ -28,13 +28,12 @@ public:
         int biggest = 0;
         int left = 0;
         for (int right = 0; right < nums.size(); right++) {
-            if (nums[right] == 0) {
+            if (nums[right] == 0)
                 zeroes++;
-            }
             while (zeroes > 1) {
                 if (nums[left++] == 0) {
                     zeroes--;
-                }
+				}
             }
             biggest = max(biggest, right - left);
         }
