@@ -37,7 +37,6 @@ public:
             int index = circIndex(i * direction, size);
             sum += code[index];
         }
-
         for (int i = 0; i < size; i++) {
             result[i] = sum;
             if (k > 0) {
@@ -55,7 +54,8 @@ public:
 
 int main(void)
 {
-    int n, k;
+    int n;
+	int k;
     cout << "Enter number of elements: ";
     cin >> n;
     vector<int> code(n);
