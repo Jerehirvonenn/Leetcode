@@ -41,9 +41,8 @@ public:
             int add = min(truckSize, boxes[0]);
             result += add * boxes[1];
             truckSize -= add;
-            if (truckSize <= 0) {
+            if (truckSize <= 0)
                 break;
-            }
         }
         return result;
     }
