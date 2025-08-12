@@ -2,7 +2,8 @@
  * Leetcode 1963 - Minimum Number of Swaps to Make the String Balanced (Medium)
  *
  * Problem:
- * You are given a 0-indexed string s of even length n. The string consists of exactly n / 2 opening brackets '[' and n / 2 closing brackets ']'.
+ * You are given a 0-indexed string s of even length n.
+ * The string consists of exactly n / 2 opening brackets '[' and n / 2 closing brackets ']'.
  * A string is called balanced if:
  * - It is empty.
  * - It can be written as AB, where both A and B are balanced strings.
@@ -24,6 +25,7 @@
 
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 class Solution {
