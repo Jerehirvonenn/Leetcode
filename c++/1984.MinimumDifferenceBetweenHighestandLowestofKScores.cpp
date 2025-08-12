@@ -1,9 +1,5 @@
 /*
     1984. Minimum Difference Between Highest and Lowest of K Scores
-    Solved
-    Easy
-
-    Topics: Sorting, Sliding Window
 
     You are given an integer array nums and an integer k.
     Pick scores of any k students so the difference between highest and lowest is minimized.
@@ -18,6 +14,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 class Solution {
