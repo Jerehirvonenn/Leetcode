@@ -72,4 +72,10 @@ int main() {
     ListNode* reversed = sol.reverseList(head);
     cout << "Reversed list: ";
     printList(reversed);
+
+	while (reversed) {
+		ListNode *tmp = reversed->next;
+		delete reversed;
+		reversed = tmp;
+	}
 }
