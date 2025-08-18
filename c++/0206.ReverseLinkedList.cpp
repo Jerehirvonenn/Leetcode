@@ -13,6 +13,7 @@
 
 #include <iostream>
 #include <stack>
+
 using namespace std;
 
 struct ListNode {
@@ -48,7 +49,6 @@ public:
     }
 };
 
-// Helper functions for testing (optional)
 void printList(ListNode* head) {
     while (head) {
         cout << head->val << " -> ";
@@ -59,11 +59,11 @@ void printList(ListNode* head) {
 
 int main() {
     // 1->2->3->4->5->nullptr
-    ListNode* head = new ListNode(1,
-                      new ListNode(2,
-                      new ListNode(3,
-                      new ListNode(4,
-                      new ListNode(5)))));
+    ListNode *head = new ListNode(1,
+                     new ListNode(2,
+                     new ListNode(3,
+                     new ListNode(4,
+                     new ListNode(5)))));
     
     Solution sol;
     cout << "Original list: ";
