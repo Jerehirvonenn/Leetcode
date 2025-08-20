@@ -21,6 +21,7 @@ public:
     string reverseWords(string s) {
         int n = s.size();
         int i = 0;
+
         while (i < n) {
             int start = i;
             int end = i + 1;
