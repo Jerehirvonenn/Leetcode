@@ -7,18 +7,15 @@ using namespace std;
 
 class Solution {
 public:
-    int longestConsecutive(vector<int>& nums)
-    {
+    int longestConsecutive(vector<int>& nums) {
         unordered_set<int> seen(nums.begin(), nums.end());
 
         int longest = 0;
         for (const int num : nums) {
-            if (!seen.count(num - 1))
-            {
+            if (!seen.count(num - 1)) {
                 int current = 1;
-                while (seen.count(num + current)) {
+                while (seen.count(num + current))
                     current++;
-                }
                 longest = max(longest, current);
             }
         }
@@ -26,8 +23,7 @@ public:
     }
 };
 
-int main(void)
-{
+int main(void) {
     Solution sol;
 
     vector<vector<int>> testCases = {
