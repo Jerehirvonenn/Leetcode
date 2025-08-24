@@ -52,9 +52,11 @@ public:
 
 
 int main() {
-    int n; 
+    int n;
+	cout << "Number of Elements: ";
     cin >> n;
     vector<int> arr(n);
+	cout << n << " intgers: ";
     for(int i = 0; i < n; i++)
 		cin >> arr[i];
     
