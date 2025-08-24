@@ -55,12 +55,14 @@ int main() {
     int n; 
     cin >> n;
     vector<int> arr(n);
-    for(int i = 0; i < n; i++) cin >> arr[i];
+    for(int i = 0; i < n; i++)
+		cin >> arr[i];
     
     Solution sol;
     sol.duplicateZeros(arr);
     
-    for(int val : arr) cout << val << " ";
+    for(int val : arr)
+		cout << val << " ";
     cout << "\n";
 }
 
