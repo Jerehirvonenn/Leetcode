@@ -3,9 +3,9 @@
  *
  * Problem:
  * Given a fixed-length integer array arr, duplicate each occurrence of zero,
- * shifting the remaining elements to the right.
- * Elements beyond the length of the original array are not written.
- * Modify the input array in-place without returning anything.
+ * shifting the remaining elements to the right
+ * Elements beyond the length of the original array are not written
+ * Modify the input array in-place without returning anything
  *
  * Approach:
  * - Count how many zeros can be duplicated without exceeding array length.
