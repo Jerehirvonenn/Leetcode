@@ -56,7 +56,7 @@ int main() {
 	cout << "Number of Elements: ";
     cin >> n;
     vector<int> arr(n);
-	cout << n << " intgers: ";
+	cout << "Populate input with " << n << " integers: ";
     for(int i = 0; i < n; i++)
 		cin >> arr[i];
     
