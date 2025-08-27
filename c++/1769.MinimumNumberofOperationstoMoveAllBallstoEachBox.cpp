@@ -54,8 +54,7 @@ int main(void)
 
     vector<int> result = solution.minOperations(boxes);
     cout << "Minimum operations to move all balls to each box:" << endl;
-    for (int val : result) {
+    for (int val : result)
         cout << val << " ";
-    }
     cout << endl;
 }
