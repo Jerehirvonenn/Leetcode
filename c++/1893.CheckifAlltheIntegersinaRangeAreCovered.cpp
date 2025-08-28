@@ -27,9 +27,8 @@ public:
         for (const auto& range : ranges) {
             int start = max(left, range[0]);
             int end = min(right, range[1]);
-            for (int j = start; j <= end; j++) {
+            for (int j = start; j <= end; j++)
                 covered[j - left] = true;
-            }
         }
         for (const bool check : covered) {
             if (!check) {
