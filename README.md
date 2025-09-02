@@ -1,8 +1,6 @@
 # LeetCode Solutions – Daily Problem Solving Journey
 
-Welcome to my **LeetCode repository**! This repo contains my solutions to over **300 programming problems**, where I actively practice and improve my **data structures and algorithms** skills. Currently focused on solving Neetcode 150 you can find 
-
----
+Welcome to my **LeetCode repository**! This repo contains my solutions to over **300 programming problems**, where I actively practice and improve my **data structures and algorithms** skills. Currently focused on solving Neetcode 150 Roadmap
 
 ## 🌟 About This Repo
 - ✅ 300+ problems solved across **Easy, Medium, and Hard** difficulty levels  
