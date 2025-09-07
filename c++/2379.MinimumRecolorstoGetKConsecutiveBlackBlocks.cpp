@@ -35,11 +35,9 @@ public:
         int n = blocks.size();
         int white = 0;
 
-        for (int i = 0; i < k && i < n; i++) {
-            if (blocks[i] == 'W') {
+        for (int i = 0; i < k && i < n; i++)
+            if (blocks[i] == 'W')
                 white++;
-            }
-        }
 
         int result = white;
         for (int i = k; i < n; i++) {
