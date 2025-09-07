@@ -25,9 +25,10 @@ public:
     long long numberOfWays(string s) {
         int n = s.size();
         vector<long long> prefix(n, 0);
-
-        int office = 0;     //'0'
-        int restaurant = 0; //'1'
+		
+		// 0 = office, 1 = restaurant
+        int office = 0;
+        int restaurant = 0;
         for (int i = 0; i < n; i++) {
             if (s[i] == '0') {
                 office++;
