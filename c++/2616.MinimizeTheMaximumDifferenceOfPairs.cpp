@@ -19,6 +19,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 class Solution {
@@ -58,7 +59,6 @@ public:
 int main(void)
 {
     Solution sol;
-
     vector<int> nums1 = {10, 1, 2, 7, 1, 3};
     int p1 = 2;
     cout << "Minimize Max for nums1: " << sol.minimizeMax(nums1, p1) << endl;
