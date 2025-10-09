@@ -5,7 +5,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## 🌟 About This Repo
 - ✅ 300+ problems solved across **Easy, Medium, and Hard** difficulty levels  
 - 📚 Daily practice to strengthen problem-solving and algorithmic thinking  
-- 🛠️ Solutions implemented primarily in **C++** (or your preferred language)  
+- 🛠️ Solutions implemented primarily in **C++**  
 - 🧠 Focus on learning and understanding **core computer science concepts**  
 
 
