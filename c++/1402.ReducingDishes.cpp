@@ -15,7 +15,7 @@
  * Input: satisfaction = [-1, -8, 0, 5, -9]
  * Output: 14
  * Explanation: The optimal order is [ -1, 0, 5 ]
- *   (-1 * 1) + (0 * 2) + (5 * 3) = 14
+ * (-1 * 1) + (0 * 2) + (5 * 3) = 14
  *
  * Approach:
  * - Sort satisfaction values in ascending order.
