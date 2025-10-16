@@ -8,8 +8,7 @@
  *
  * Approach:
  * - Keep a running count of 'L' and 'R' characters.
- * - Whenever the counts of 'L' and 'R' become equal, a balanced
- * substring has been found.
+ * - if counts 'L' and 'R' are equal, a balanced substring has been found
  * - Increment the result counter and reset the 'L' and 'R' counts to zero
  */
 
