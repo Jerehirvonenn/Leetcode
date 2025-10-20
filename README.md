@@ -11,3 +11,15 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 
 ## 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jerehirvonen?theme=dark&font=Abel)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
+<!---LeetCode Topics End-->
