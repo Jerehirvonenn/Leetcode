@@ -30,6 +30,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sorting
 |  |
 | ------- |
@@ -40,8 +41,13 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Math
 |  |
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+## Matrix
+|  |
+| ------- |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 <!---LeetCode Topics End-->
