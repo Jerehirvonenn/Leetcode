@@ -20,6 +20,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -49,6 +52,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
@@ -70,4 +74,8 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Counting
+|  |
+| ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
