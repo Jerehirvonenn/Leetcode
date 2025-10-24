@@ -35,6 +35,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -52,6 +53,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -94,6 +96,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
