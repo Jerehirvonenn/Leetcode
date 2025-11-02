@@ -49,6 +49,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Jerehirvonenn/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/Jerehirvonenn/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -80,6 +81,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Jerehirvonenn/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -101,6 +103,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
+| [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
 |  |
