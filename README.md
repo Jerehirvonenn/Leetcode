@@ -33,6 +33,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1652-minimum-suffix-flips](https://github.com/Jerehirvonenn/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -75,6 +76,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1652-minimum-suffix-flips](https://github.com/Jerehirvonenn/Leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Jerehirvonenn/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -113,6 +115,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Counting
 |  |
 | ------- |
