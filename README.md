@@ -107,6 +107,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Jerehirvonenn/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jerehirvonenn/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
