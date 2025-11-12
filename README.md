@@ -17,6 +17,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -44,6 +45,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
