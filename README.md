@@ -67,6 +67,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3151-minimum-processing-time](https://github.com/Jerehirvonenn/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Jerehirvonenn/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jerehirvonenn/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -122,6 +123,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2812-find-the-maximum-achievable-number](https://github.com/Jerehirvonenn/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jerehirvonenn/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jerehirvonenn/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
