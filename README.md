@@ -25,6 +25,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
@@ -64,6 +65,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3151-minimum-processing-time](https://github.com/Jerehirvonenn/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Jerehirvonenn/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -117,6 +119,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2812-find-the-maximum-achievable-number](https://github.com/Jerehirvonenn/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jerehirvonenn/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
