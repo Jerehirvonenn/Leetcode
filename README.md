@@ -125,6 +125,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jerehirvonenn/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3830-find-closest-person](https://github.com/Jerehirvonenn/Leetcode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
