@@ -58,6 +58,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jerehirvonenn/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/Jerehirvonenn/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Jerehirvonenn/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -130,6 +131,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1791-richest-customer-wealth](https://github.com/Jerehirvonenn/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
