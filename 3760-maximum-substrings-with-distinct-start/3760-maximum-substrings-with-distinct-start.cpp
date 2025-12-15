@@ -1,13 +1,13 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_set<char> seen;
+        vector<int> seen(26, 0);
         int result = 0;
         for (const char c : s) {
-            if (!seen.count(c)) {
+            if (!seen[c - 'a']) {
                 result++;
             }
-            seen.insert(c);
+            seen[c - 'a']++;
         }
         return result;
     }
