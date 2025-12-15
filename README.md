@@ -46,6 +46,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3280-convert-date-to-binary](https://github.com/Jerehirvonenn/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jerehirvonenn/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -128,6 +129,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2812-find-the-maximum-achievable-number](https://github.com/Jerehirvonenn/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jerehirvonenn/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3280-convert-date-to-binary](https://github.com/Jerehirvonenn/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jerehirvonenn/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Jerehirvonenn/Leetcode/tree/master/3830-find-closest-person) |
