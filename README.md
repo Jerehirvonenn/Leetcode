@@ -47,6 +47,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Jerehirvonenn/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Jerehirvonenn/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jerehirvonenn/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -189,6 +190,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Jerehirvonenn/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Counting Sort
 |  |
 | ------- |
