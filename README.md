@@ -57,6 +57,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3280-convert-date-to-binary](https://github.com/Jerehirvonenn/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Jerehirvonenn/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Jerehirvonenn/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jerehirvonenn/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
@@ -167,6 +168,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jerehirvonenn/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Jerehirvonenn/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Jerehirvonenn/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Backtracking
 |  |
