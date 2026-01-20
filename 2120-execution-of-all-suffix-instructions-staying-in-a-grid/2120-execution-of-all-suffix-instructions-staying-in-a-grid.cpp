@@ -26,7 +26,6 @@ public:
 
         for (int i = 0; i < len; i++) {
             result[i] = stepsPossible(i, n, startPos[0], startPos[1], s);
-            cout << endl;
         }
         return result;
     }
