@@ -1,9 +1,7 @@
 class Solution {
 private:
-    int len;
-
-    int stepsPossible(int idx, int n, int row, int col, string s) {
-        for (int i = 0; i + idx < len; i++) {
+    int stepsPossible(int idx, int n, int row, int col, string &s) {
+        for (int i = 0; i + idx < s.size(); i++) {
             char c = s[i + idx];
             if (c == 'U') {
                 row--;
@@ -19,11 +17,11 @@ private:
                 return i;
             }
         }
-        return len - idx;
+        return s.size() - idx;
     }
 public:
     vector<int> executeInstructions(int n, vector<int>& startPos, string s) {
-        len = s.size();
+        int len = s.size();
         vector<int> result(len, 0);
 
         for (int i = 0; i < len; i++) {
