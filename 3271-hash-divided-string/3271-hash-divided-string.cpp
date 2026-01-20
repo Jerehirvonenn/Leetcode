@@ -3,7 +3,7 @@ public:
     string stringHash(string s, int k) {
         int n = s.size();
         string result;
-        result.reserve(n / 3);
+        result.reserve(n / k);
 
         int hashValue = 0;
         for (int i = 0; i < n; i++) {
