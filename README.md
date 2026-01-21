@@ -20,6 +20,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -36,6 +37,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -67,6 +69,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
