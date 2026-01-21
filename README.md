@@ -52,6 +52,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3227-vowels-game-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/3271-hash-divided-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Jerehirvonenn/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -141,6 +142,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Jerehirvonenn/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jerehirvonenn/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-vowels-game-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Jerehirvonenn/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jerehirvonenn/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -242,4 +244,12 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jerehirvonenn/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
