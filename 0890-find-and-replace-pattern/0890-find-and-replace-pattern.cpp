@@ -1,34 +1,30 @@
 class Solution {
 private:
-    bool    patternMatches(const string &word, const string &pattern) {
-        if (word.length() != pattern.length())
-            return false;
+    // normalize strings version
+    string  normalizeWord(const string &s) {
+        vector<int> seen(26, 0);
+        string norm;
+        int next = 1;
 
-        vector<int> p2w(26, 0);
-        vector<int> w2p(26, 0);
-
-        for (int i = 0; i < word.size(); i++) {
-            char w = word[i];
-            char p = pattern[i];
-
-            if (p2w[p - 'a'] && p2w[p - 'a'] != w)
-                return false;
-            if (w2p[w - 'a'] && w2p[w - 'a'] != p)
-                return false;
-
-            p2w[p - 'a'] = w;
-            w2p[w - 'a'] = p;
+        for (const char c : s) {
+            if (!seen[c - 'a']) {
+                seen[c - 'a'] = next++;
+            }
+            norm += seen[c - 'a'];
         }
-        return true;
+        return norm;
     }
 public:
     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
         vector<string> result;
 
+        string normalP = normalizeWord(pattern);
         for (const string &word : words) {
-            if (patternMatches(word, pattern)) {
+            if (pattern.length() != word.length())
+                continue;
+            string normalW = normalizeWord(word);
+            if (normalW == normalP)
                 result.push_back(word);
-            }
         }
         return result;
     }
