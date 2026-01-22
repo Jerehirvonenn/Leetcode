@@ -37,6 +37,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -187,6 +188,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Backtracking
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -196,6 +198,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Bit Manipulation
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
