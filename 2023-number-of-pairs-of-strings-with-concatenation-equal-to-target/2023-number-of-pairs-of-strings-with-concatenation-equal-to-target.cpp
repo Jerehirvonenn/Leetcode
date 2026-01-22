@@ -2,16 +2,22 @@ class Solution {
 public:
     int numOfPairs(vector<string>& nums, string target) {
         int n = nums.size();
-        int result = 0;
+        unordered_map<string, int> seen;
+        for (const string &s : nums) {
+            seen[s]++;
+        }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == j)
-                    continue ;
-                if (nums[i] + nums[j] == target)
-                    result++;
-            }    
-        } 
+        int result = 0;
+        for (const string &s : nums) {
+            if (target.rfind(s, 0))
+                continue ;
+            string suffix = target.substr(s.size());
+            if (seen.count(suffix)) {
+                result += seen[suffix];
+                if (s == suffix)
+                    result--;
+            }
+        }
         return result;
     }
 };
