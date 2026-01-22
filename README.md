@@ -27,6 +27,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -48,6 +49,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1773-count-items-matching-a-rule](https://github.com/Jerehirvonenn/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Jerehirvonenn/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -84,6 +86,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1917-maximum-average-pass-ratio](https://github.com/Jerehirvonenn/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Jerehirvonenn/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -182,6 +185,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Jerehirvonenn/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
