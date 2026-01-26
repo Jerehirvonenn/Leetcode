@@ -39,6 +39,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Jerehirvonenn/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -199,6 +200,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Jerehirvonenn/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
@@ -248,6 +250,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Jerehirvonenn/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jerehirvonenn/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
