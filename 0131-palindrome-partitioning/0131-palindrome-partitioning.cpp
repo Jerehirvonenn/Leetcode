@@ -30,9 +30,11 @@ public:
         vector<vector<bool>> isPal(n, vector<bool> (n, false));
         vector<string> current;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = n - 1; i >= 0; i--) {
             for (int j = i; j < n; j++) {
-                isPal[i][j] = isPalindrome(i, j, s);
+                if (s[i] == s[j] && (j - i <= 2 || isPal[i + 1][j - 1])) {
+                    isPal[i][j] = true;
+                }
             }
         }
 
