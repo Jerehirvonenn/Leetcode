@@ -29,6 +29,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -58,6 +59,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Jerehirvonenn/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -195,6 +197,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3527-find-the-most-common-response](https://github.com/Jerehirvonenn/Leetcode/tree/master/3527-find-the-most-common-response) |
