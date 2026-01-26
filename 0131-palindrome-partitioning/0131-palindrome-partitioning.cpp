@@ -9,15 +9,16 @@ private:
         return true;
     }
 
-    void    dfs(vector<string> &current, vector<vector<string>> &result, int start, string &s) {
+    void    dfs(vector<string> &current, vector<vector<string>> &result, vector<vector<bool>> &isPal ,int start, string &s) {
         if (start >= n) {
             result.push_back(current);
+            return ;
         }
 
         for (int i = start; i < n; i++) {
-            if (isPalindrome(start, i, s)) {
+            if (isPal[start][i]) {
                 current.push_back(s.substr(start, (i - start + 1)));
-                dfs(current, result, i + 1, s);
+                dfs(current, result, isPal, i + 1, s);
                 current.pop_back();
             }
         }
@@ -26,9 +27,16 @@ public:
     vector<vector<string>> partition(string s) {
         n = s.size();
         vector<vector<string>> result;
+        vector<vector<bool>> isPal(n, vector<bool> (n, false));
         vector<string> current;
 
-        dfs(current, result, 0, s);
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                isPal[i][j] = isPalindrome(i, j, s);
+            }
+        }
+
+        dfs(current, result, isPal, 0, s);
 
         return result;
     }
