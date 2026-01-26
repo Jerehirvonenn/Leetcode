@@ -26,6 +26,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -50,6 +51,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1652-minimum-suffix-flips](https://github.com/Jerehirvonenn/Leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1773-count-items-matching-a-rule](https://github.com/Jerehirvonenn/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -191,6 +193,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
