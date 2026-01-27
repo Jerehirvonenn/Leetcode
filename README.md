@@ -42,6 +42,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Jerehirvonenn/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -176,6 +177,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -257,6 +259,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Jerehirvonenn/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jerehirvonenn/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
