@@ -3,20 +3,25 @@ private:
     int n;
 
     int isPalindromic(int left, int right, string &s) {
-        int pals = 0;
-        while (left >= 0 && right < n && s[left--] == s[right++]) {
-            pals++;
-        }
-        return pals;
+        return 0;
     }
 public:
     int countSubstrings(string s) {
         n = s.size();
-        int result = 0;
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
 
-        for (int i = 0; i < n; i++) {
-            result += isPalindromic(i, i, s);
-            result += isPalindromic(i, i + 1, s);
+        for (int i = 0; i <n; i++) {
+            dp[i][i] = true;
+        }
+
+        int result = n;
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i <= n - len; i++) {
+                    if (s[i] == s[i + len - 1] && (len <= 2 || dp[i + 1][i + len - 2])) {
+                        result++;
+                        dp[i][i + len - 1] = true;
+                    }
+            }
         }
         return result;
     }
