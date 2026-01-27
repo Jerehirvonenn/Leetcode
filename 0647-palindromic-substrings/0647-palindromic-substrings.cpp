@@ -17,10 +17,11 @@ public:
         int result = n;
         for (int len = 2; len <= n; len++) {
             for (int i = 0; i <= n - len; i++) {
-                    if (s[i] == s[i + len - 1] && (len <= 2 || dp[i + 1][i + len - 2])) {
-                        result++;
-                        dp[i][i + len - 1] = true;
-                    }
+                int j = i + len - 1;
+                if (s[i] == s[j] && (len <= 2 || dp[i + 1][j - 1])) {
+                    result++;
+                    dp[i][j] = true;
+                }
             }
         }
         return result;
