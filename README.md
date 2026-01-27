@@ -48,6 +48,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Jerehirvonenn/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -261,6 +262,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0131-palindrome-partitioning](https://github.com/Jerehirvonenn/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Jerehirvonenn/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jerehirvonenn/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
