@@ -47,6 +47,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jerehirvonenn/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Jerehirvonenn/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -87,6 +88,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jerehirvonenn/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -133,6 +135,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
