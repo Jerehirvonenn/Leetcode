@@ -9,25 +9,24 @@ public:
         int deletes = 0;
         vector<bool> sorted(rows, false);
         for (int col = 0; col < cols; col++) {
+            vector<bool> tmp = sorted;
             bool del = false;
             for (int row = 0; row < rows - 1; row++) {
-                if (sorted[row])
+                if (tmp[row])
                     continue ;
                 if (strs[row][col] > strs[row + 1][col]) {
                     del = true;
                     break ;
                 }
+                else if (strs[row][col] != strs[row + 1][col]){
+                    tmp[row] = true;
+                }
             }
-
             if (del) {
                 deletes++;
-                continue ;
             }
-            for (int row = 0; row < rows - 1; row++) {
-                if (sorted[row])
-                    continue ;
-                if (strs[row][col] != strs[row + 1][col])
-                    sorted[row] = true;
+            else {
+                sorted = tmp;
             }
         }
         return deletes;
