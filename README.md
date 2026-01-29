@@ -51,6 +51,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Jerehirvonenn/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -199,6 +200,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jerehirvonenn/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Jerehirvonenn/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
