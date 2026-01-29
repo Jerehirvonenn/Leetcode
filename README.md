@@ -63,6 +63,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Jerehirvonenn/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -105,6 +106,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1980-find-unique-binary-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/Jerehirvonenn/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -186,6 +188,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/0647-palindromic-substrings) |
+| [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -243,6 +246,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Simulation
 |  |
 | ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Jerehirvonenn/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
