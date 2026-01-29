@@ -19,6 +19,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -43,6 +44,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Jerehirvonenn/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
@@ -304,4 +306,12 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Jerehirvonenn/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Jerehirvonenn/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
