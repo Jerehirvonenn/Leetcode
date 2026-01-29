@@ -27,6 +27,8 @@ public:
 
         int result = 0;
         for (const auto &[first, last] : idx) {
+            if (first == -1 || first == last)
+                continue ;
             result += uniquesBetweenIndexes(first, last, s);
         }
         return result;
