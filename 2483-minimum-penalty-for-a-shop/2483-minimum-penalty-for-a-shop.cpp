@@ -9,7 +9,6 @@ public:
             if (customers[i] == 'Y')
                 penalty++;
             penaltyIfClosed[i] = penalty;
-            cout << penalty << endl;
         }
 
         int best = INT_MAX;
