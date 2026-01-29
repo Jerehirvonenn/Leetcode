@@ -69,6 +69,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jerehirvonenn/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Jerehirvonenn/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Jerehirvonenn/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -302,4 +303,5 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Jerehirvonenn/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Jerehirvonenn/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
