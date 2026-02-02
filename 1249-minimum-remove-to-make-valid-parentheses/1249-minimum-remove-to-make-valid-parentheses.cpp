@@ -3,7 +3,6 @@ public:
     string minRemoveToMakeValid(string s) {
         int open = 0;
         for (int i = 0; i < s.size(); i++) {
-            cout << i << " " << open << endl;
             if (s[i] == ')' && open > 0) {
                 open--;
             } else if (s[i] == ')') {
