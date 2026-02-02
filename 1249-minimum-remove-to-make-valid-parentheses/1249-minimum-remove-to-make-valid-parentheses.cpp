@@ -23,6 +23,8 @@ public:
                 closed--;
             } else if (s[i] == '(') {
                 s.erase(i, 1);
+                if (--open <= 0)
+                    break;
             } else if (s[i] == ')') {
                 closed++;
             }
