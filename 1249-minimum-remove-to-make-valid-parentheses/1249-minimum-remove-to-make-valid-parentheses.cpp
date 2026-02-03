@@ -6,29 +6,31 @@ public:
             if (s[i] == ')' && open > 0) {
                 open--;
             } else if (s[i] == ')') {
-                s.erase(i, 1);
-                i--;
+                s[i] = '#';
             } else if (s[i] == '(') {
                 open++;
             }
         }
 
-        if (open == 0) {
-            return s;
-        }
-
         int closed = 0;
-        for (int i = s.size(); i >= 0; i--) {
+        for (int i = s.size() - 1; i >= 0 && open; i--) {
             if (s[i] == '(' && closed > 0) {
                 closed--;
             } else if (s[i] == '(') {
-                s.erase(i, 1);
-                if (--open <= 0)
-                    break;
+                s[i] = '#';
+                open--;
             } else if (s[i] == ')') {
                 closed++;
             }
         }
-        return s;
+
+        string result;
+        result.reserve(s.size());
+
+        for (const char c : s) {
+            if (c != '#')
+                result.push_back(c);
+        }
+        return result;
     }
 };
