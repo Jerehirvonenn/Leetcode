@@ -94,6 +94,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0861-score-after-flipping-matrix](https://github.com/Jerehirvonenn/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jerehirvonenn/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -145,6 +146,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0861-score-after-flipping-matrix](https://github.com/Jerehirvonenn/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -187,6 +189,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Matrix
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Jerehirvonenn/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Jerehirvonenn/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Jerehirvonenn/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -241,6 +244,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0861-score-after-flipping-matrix](https://github.com/Jerehirvonenn/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1022-unique-paths-iii](https://github.com/Jerehirvonenn/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Jerehirvonenn/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
