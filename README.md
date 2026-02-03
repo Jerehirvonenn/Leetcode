@@ -53,6 +53,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0944-delete-columns-to-make-sorted](https://github.com/Jerehirvonenn/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -215,6 +216,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Jerehirvonenn/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jerehirvonenn/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
