@@ -25,6 +25,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1400-construct-k-palindrome-strings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -58,6 +59,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Jerehirvonenn/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1400-construct-k-palindrome-strings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1652-minimum-suffix-flips](https://github.com/Jerehirvonenn/Leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1773-count-items-matching-a-rule](https://github.com/Jerehirvonenn/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -151,6 +153,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jerehirvonenn/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jerehirvonenn/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1400-construct-k-palindrome-strings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Jerehirvonenn/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -222,6 +225,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1400-construct-k-palindrome-strings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Jerehirvonenn/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Jerehirvonenn/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
