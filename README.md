@@ -126,6 +126,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3334-apple-redistribution-into-boxes](https://github.com/Jerehirvonenn/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jerehirvonenn/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3527-find-the-most-common-response](https://github.com/Jerehirvonenn/Leetcode/tree/master/3527-find-the-most-common-response) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -200,6 +201,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Jerehirvonenn/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Jerehirvonenn/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
 |  |
@@ -323,6 +325,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Jerehirvonenn/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Jerehirvonenn/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Design
 |  |
 | ------- |
@@ -331,4 +334,8 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
