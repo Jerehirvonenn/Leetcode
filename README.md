@@ -78,6 +78,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2483-minimum-penalty-for-a-shop](https://github.com/Jerehirvonenn/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Jerehirvonenn/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jerehirvonenn/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
