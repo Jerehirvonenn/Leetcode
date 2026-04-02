@@ -123,6 +123,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2681-put-marbles-in-bags](https://github.com/Jerehirvonenn/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2756-buy-two-chocolates](https://github.com/Jerehirvonenn/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3151-minimum-processing-time](https://github.com/Jerehirvonenn/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Jerehirvonenn/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jerehirvonenn/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -188,6 +189,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2032-largest-odd-number-in-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Jerehirvonenn/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jerehirvonenn/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-vowels-game-in-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Jerehirvonenn/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -202,6 +204,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Jerehirvonenn/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Jerehirvonenn/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2089-maximum-matrix-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Two Pointers
@@ -275,6 +278,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Jerehirvonenn/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jerehirvonenn/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3271-hash-divided-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Jerehirvonenn/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Counting Sort
