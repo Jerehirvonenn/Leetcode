@@ -8,6 +8,16 @@ private:
     int dir; //0 north,  1 east,  2 south,  3 west
     int dx[4] = {0, 1, 0, -1};
     int dy[4] = {1, 0, -1, 0};
+
+    int stepsTillWall(int x, int y, int width, int height, int dir) {
+        switch(dir) {
+            case(0) : return (height - 1) - y;
+            case(1) : return (width - 1) - x;
+            case(2) : return y;
+            case(3) : return x;
+            default : cout << "dir impossible" << endl; return 0;
+        }
+    }
 public:
     Robot(int width, int height) {
         x = 0;
@@ -25,15 +35,16 @@ public:
         }
 
         while (num) {
-            int nx = x + dx[dir];
-            int ny = y + dy[dir];
-            if (nx < 0 || nx >= m || ny < 0 || ny >= n) {
-                dir = (dir + 3) % 4;
-                continue;
-            }
+            int canTake = min(num, stepsTillWall(x, y, m, n, dir));
+            int nx = x + (canTake * dx[dir]);
+            int ny = y + (canTake * dy[dir]);
+
             x = nx;
             y = ny;
-            num--;
+            num -= canTake;
+            if (num) {
+                dir = (dir + 3) % 4;
+            }
         }
         return ;
     }
