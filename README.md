@@ -282,6 +282,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Jerehirvonenn/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -344,6 +345,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [2069-walking-robot-simulation-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Hash Function
 |  |
 | ------- |
