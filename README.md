@@ -21,6 +21,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0874-walking-robot-simulation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/Jerehirvonenn/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Jerehirvonenn/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -99,6 +100,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0861-score-after-flipping-matrix](https://github.com/Jerehirvonenn/Leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0890-find-and-replace-pattern](https://github.com/Jerehirvonenn/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Jerehirvonenn/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -279,6 +281,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Jerehirvonenn/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
