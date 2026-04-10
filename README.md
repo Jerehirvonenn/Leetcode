@@ -20,6 +20,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Jerehirvonenn/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jerehirvonenn/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Jerehirvonenn/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -100,6 +101,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [0001-two-sum](https://github.com/Jerehirvonenn/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Jerehirvonenn/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jerehirvonenn/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0861-score-after-flipping-matrix](https://github.com/Jerehirvonenn/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Jerehirvonenn/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -144,6 +146,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jerehirvonenn/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Jerehirvonenn/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Jerehirvonenn/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Jerehirvonenn/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -220,6 +223,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jerehirvonenn/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Jerehirvonenn/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -229,6 +233,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jerehirvonenn/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jerehirvonenn/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
