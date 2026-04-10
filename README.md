@@ -41,6 +41,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3223-minimum-length-of-string-after-operations](https://github.com/Jerehirvonenn/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3527-find-the-most-common-response](https://github.com/Jerehirvonenn/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jerehirvonenn/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -139,6 +140,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jerehirvonenn/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jerehirvonenn/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Jerehirvonenn/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Jerehirvonenn/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
