@@ -95,6 +95,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [3527-find-the-most-common-response](https://github.com/Jerehirvonenn/Leetcode/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Jerehirvonenn/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jerehirvonenn/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Jerehirvonenn/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Jerehirvonenn/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
 |  |
@@ -230,6 +231,7 @@ Welcome to my **LeetCode repository**! This repo contains my solutions to over *
 | [2109-adding-spaces-to-a-string](https://github.com/Jerehirvonenn/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Jerehirvonenn/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jerehirvonenn/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/Jerehirvonenn/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jerehirvonenn/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
